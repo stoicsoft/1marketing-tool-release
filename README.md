@@ -12,7 +12,7 @@
 
 > **Zero cloud account required.** Your workspace, content library, API keys, and marketing data stay on your machine.
 
-![1MarketingTool Content Machine](https://1marketingtool.com/screenshots/content_machine_overview.jpg)
+![1MarketingTool marketing stack](https://1marketingtool.com/og-image.png)
 
 ---
 
