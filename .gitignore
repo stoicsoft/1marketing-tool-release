@@ -1,0 +1,14 @@
+.DS_Store
+
+# Release artifacts should be attached to GitHub Releases, not committed.
+*.dmg
+*.exe
+*.zip
+*.blockmap
+latest*.yml
+builder-debug.yml
+
+# Local/generated folders.
+release/
+dist/
+tmp/
